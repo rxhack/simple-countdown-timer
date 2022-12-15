@@ -1,0 +1,27 @@
+{
+  "name": "simple-countdown-timer",
+  "version": "1.0.0",
+  "description": "Simple Countdown Timer !!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rxhack/simple-countdown-timer.git"
+  },
+  "keywords": [
+    "countdown"
+  ],
+  "author": "Ritaban Paul (rxhack)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rxhack/simple-countdown-timer/issues"
+  },
+  "homepage": "https://github.com/rxhack/simple-countdown-timer#readme",
+  "dependencies": {
+    "lodash": "^4.17.13",
+    "sprintf-js": "^1.1.1",
+    "prop-types": "^15.5.8"
+  }
+}
