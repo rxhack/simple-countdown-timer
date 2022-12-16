@@ -50,7 +50,7 @@ class SimpleCountDownTimer extends React.Component {
   }
 
   componentDidMount() {
-    clearInterval(this.timer);
+    // clearInterval(this.timer); #update
   }
 
   componentWillUnmount() {
